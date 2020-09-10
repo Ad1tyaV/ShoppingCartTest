@@ -1,0 +1,38 @@
+.cartParent{    
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+}
+
+.productCart{        
+    background-color: antiquewhite;   
+    padding-bottom: 10px;
+    padding-top:10px;
+    border:0.5px blueviolet solid;
+    text-align: center;
+    display: flex;
+    flex-direction:row;
+    padding-left: 10%;    
+    font-size: 20px;    
+    margin-top:0.5%;
+}
+
+.productPrice
+{
+    
+    color:green;
+    margin-left:40%;
+}
+
+.removeButton{
+    margin-left:30%;
+}
+
+td{
+    font-size: large;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:15px;
+    padding-right:15px;
+    padding-bottom: 15px;
+}

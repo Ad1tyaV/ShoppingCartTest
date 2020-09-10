@@ -1,0 +1,60 @@
+.App {
+  
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: row;    
+  font-size: calc(7px + 2vmin);
+  color: white;      
+}
+
+a {
+  color: #FFF;
+}
+a:hover {
+   color:yellow;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-header .cart {
+    
+  margin-top:10px;  
+  margin-left:5%;
+}
+
+.App-header .product {
+    
+  margin-top:10px;  
+  margin-left:65%;
+}
+
+.App-header .cartNumber{
+  
+  margin-top:10px;  
+  margin-left:5%;  
+}
+
+.App-header .title-header{
+
+  margin-top:10px;
+  margin-left:1%;
+  
+}
+
